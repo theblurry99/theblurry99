@@ -10,7 +10,7 @@ things i write in:
 - want to learn python
 
 # projects:
-- a cs 1.6 server, hosting study, friends only for now
+- NoMercy 24/7, hosting study, small gameserver network
 - blurrycast - owner, website design and code, lead host
 - Windows 98 Dream Edition - entirety of the mod
 - The DreamProject Legacy website - maintaining (domain), design and code
