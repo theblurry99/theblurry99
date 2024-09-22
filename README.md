@@ -1,12 +1,12 @@
 - 👋 waddup people, name's blurry; @theblurry99
 - owner @ The DreamProject Team and blurryCast
-https://dreamproject98.com and https://blurrycast.ga
+https://dreamproject98.com and https://blurrycast.neocities.org
 
 - retro tech and software enthusiast
 
 things i write in:
-- very basic C++
-- learning HTML, CSS (want to learn JS, PHP in some future)
+- very basic c++ and javascript
+- learning html, CSS, php
 - want to learn python
 
 # projects:
