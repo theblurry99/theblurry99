@@ -1,6 +1,6 @@
 - 👋 waddup people, name's blurry; @theblurry99
 - owner @ The DreamProject Team and blurryCast
-https://dreamproject98.com and https://blurrycast.org
+https://dreamproject98.com and https://blurrycast.net
 
 - retro tech and software enthusiast
 
